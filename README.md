@@ -8,6 +8,8 @@
 
 [n14r.md](n14r.md)  
 
+[n20r.md](n20r.md)
+
 
 1. which problem(s) gave you the most trouble? Did you avoid any problem that is too challenging to finish by deadline? Did you ask questions to AI/instructor?
    1. No
